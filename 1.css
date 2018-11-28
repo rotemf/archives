@@ -1,0 +1,34 @@
+body {
+    direction: rtl;
+    font-family: 'Assistant', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 0.2px;
+    display: block;
+    margin:50px; 
+    background-color: rgb(255, 175, 1);
+    opacity: 50%;
+    
+}
+
+h1{
+    font-size: 32px;
+    text-decoration: underline;
+    height: 28px;
+}
+
+img{
+    width: 620px;
+    position: absolute;
+    bottom: 7vh;
+    right: 20.5vw;
+    
+}
+
+span.caption5{
+    position: absolute;
+    bottom: 36vh;
+    right: 63vw;
+}
+
+
